@@ -1,5 +1,6 @@
 {
   "name": "corduroy",
   "description": "Coming soon.",
-  "repository": "timdp/corduroy"
+  "repository": "timdp/corduroy",
+  "version": "0.0.0"
 }
